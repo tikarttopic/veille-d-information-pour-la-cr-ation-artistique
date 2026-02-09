@@ -1,3 +1,27 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>TIKART — Page</title>
+  <style>
+    body{font-family:system-ui,Segoe UI,Roboto,Arial; margin:0; background:#0b0b10; color:#eaeaf2;}
+    .wrap{max-width:900px; margin:0 auto; padding:40px 18px;}
+    h1{font-size:28px; margin:0 0 10px;}
+    .sub{opacity:.75; margin:0 0 28px;}
+    .card{background:#141420; border:1px solid #24243a; border-radius:16px; padding:18px;}
+    pre{white-space:pre-wrap; word-wrap:break-word; margin:0; font-size:15px; line-height:1.6;}
+    a{color:#9ad;}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>TIKART</h1>
+    <p class="sub">Page unique — lisible — Linktree ready</p>
+
+    <div class="card">
+      <pre>
+  
 #Retranscription édité de Chat GPT#
 
 On parle de monter **une cellule de veille stratégique artistique**.
@@ -3991,3 +4015,8 @@ D) Cellule de veille type think tank personnel
 
 On peut verrouiller le système proprement.
 
+    </pre>
+    </div>
+  </div>
+</body>
+</html>
